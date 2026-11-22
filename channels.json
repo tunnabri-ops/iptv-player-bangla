@@ -1,0 +1,1 @@
+{"epg":"https://iptv-org.github.io/epg.xml","groups":["Bangla","News","Sports"],"note":"Starter channel list for the Bangla IPTV web player. Streams come from the upstream Free-TV/IPTV playlist — this file only lists names/groups, no fake stream URLs.","source_playlist":"https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"}
